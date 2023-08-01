@@ -2,7 +2,7 @@
 
 **✨ Teamwork makes the [UNSW] Streams work 🌈**
 
-**This repo is for employment purpose, do you copy for academic work.**
+**This repo is for employment purpose, do not copy for academic work.**
 ## Contents
 
   1.  Aims
